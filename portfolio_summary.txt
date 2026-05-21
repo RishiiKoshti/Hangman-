@@ -1,0 +1,1 @@
+Stock: TATA | Quantity: 5 | Price: ₹2324 | Total Investment Value: ₹11620
